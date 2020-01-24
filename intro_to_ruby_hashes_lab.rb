@@ -15,7 +15,7 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
-  return {id: 523942523432231524123125123
+  return {id: 523942523432231524123125123}
 end
 
 def my_hash_creator(key, value)
